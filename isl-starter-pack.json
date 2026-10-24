@@ -1,0 +1,303 @@
+[
+  {
+    "label": "Thank you",
+    "hindi": "धन्यवाद",
+    "malayalam": "നന്ദി",
+    "category": "Manners",
+    "recorded": false
+  },
+  {
+    "label": "Please",
+    "hindi": "कृपया",
+    "malayalam": "ദയവായി",
+    "category": "Manners",
+    "recorded": false
+  },
+  {
+    "label": "Sorry",
+    "hindi": "माफ़ कीजिए",
+    "malayalam": "ക്ഷമിക്കണം",
+    "category": "Manners",
+    "recorded": false
+  },
+  {
+    "label": "Goodbye",
+    "hindi": "अलविदा",
+    "malayalam": "വിട",
+    "category": "Manners",
+    "recorded": false
+  },
+  {
+    "label": "Good morning",
+    "hindi": "सुप्रभात",
+    "malayalam": "സുപ്രഭാതം",
+    "category": "Manners",
+    "recorded": false
+  },
+  {
+    "label": "Good night",
+    "hindi": "शुभ रात्रि",
+    "malayalam": "ശുഭരാത്രി",
+    "category": "Manners",
+    "recorded": false
+  },
+  {
+    "label": "Help",
+    "hindi": "मदद",
+    "malayalam": "സഹായം",
+    "category": "Emergency",
+    "recorded": false
+  },
+  {
+    "label": "Emergency",
+    "hindi": "आपातकाल",
+    "malayalam": "അടിയന്തരാവസ്ഥ",
+    "category": "Emergency",
+    "recorded": false
+  },
+  {
+    "label": "Danger",
+    "hindi": "ख़तरा",
+    "malayalam": "അപകടം",
+    "category": "Emergency",
+    "recorded": false
+  },
+  {
+    "label": "Doctor",
+    "hindi": "डॉक्टर",
+    "malayalam": "ഡോക്ടർ",
+    "category": "Emergency",
+    "recorded": false
+  },
+  {
+    "label": "Hospital",
+    "hindi": "अस्पताल",
+    "malayalam": "ആശുപത്രി",
+    "category": "Emergency",
+    "recorded": false
+  },
+  {
+    "label": "Ambulance",
+    "hindi": "एम्बुलेंस",
+    "malayalam": "ആംബുലൻസ്",
+    "category": "Emergency",
+    "recorded": false
+  },
+  {
+    "label": "Police",
+    "hindi": "पुलिस",
+    "malayalam": "പോലീസ്",
+    "category": "Emergency",
+    "recorded": false
+  },
+  {
+    "label": "Fire",
+    "hindi": "आग",
+    "malayalam": "തീ",
+    "category": "Emergency",
+    "recorded": false
+  },
+  {
+    "label": "Medicine",
+    "hindi": "दवा",
+    "malayalam": "മരുന്ന്",
+    "category": "Emergency",
+    "recorded": false
+  },
+  {
+    "label": "Pain",
+    "hindi": "दर्द",
+    "malayalam": "വേദന",
+    "category": "Emergency",
+    "recorded": false
+  },
+  {
+    "label": "Water",
+    "hindi": "पानी",
+    "malayalam": "വെള്ളം",
+    "category": "Needs",
+    "recorded": false
+  },
+  {
+    "label": "Food",
+    "hindi": "खाना",
+    "malayalam": "ഭക്ഷണം",
+    "category": "Needs",
+    "recorded": false
+  },
+  {
+    "label": "Toilet",
+    "hindi": "शौचालय",
+    "malayalam": "ടോയ്‌ലറ്റ്",
+    "category": "Needs",
+    "recorded": false
+  },
+  {
+    "label": "Hungry",
+    "hindi": "भूखा",
+    "malayalam": "വിശക്കുന്നു",
+    "category": "Needs",
+    "recorded": false
+  },
+  {
+    "label": "Thirsty",
+    "hindi": "प्यासा",
+    "malayalam": "ദാഹിക്കുന്നു",
+    "category": "Needs",
+    "recorded": false
+  },
+  {
+    "label": "Money",
+    "hindi": "पैसा",
+    "malayalam": "പണം",
+    "category": "Needs",
+    "recorded": false
+  },
+  {
+    "label": "Mother",
+    "hindi": "माँ",
+    "malayalam": "അമ്മ",
+    "category": "People",
+    "recorded": false
+  },
+  {
+    "label": "Father",
+    "hindi": "पिता",
+    "malayalam": "അച്ഛൻ",
+    "category": "People",
+    "recorded": false
+  },
+  {
+    "label": "Brother",
+    "hindi": "भाई",
+    "malayalam": "സഹോദരൻ",
+    "category": "People",
+    "recorded": false
+  },
+  {
+    "label": "Sister",
+    "hindi": "बहन",
+    "malayalam": "സഹോദരി",
+    "category": "People",
+    "recorded": false
+  },
+  {
+    "label": "Friend",
+    "hindi": "दोस्त",
+    "malayalam": "സുഹൃത്ത്",
+    "category": "People",
+    "recorded": false
+  },
+  {
+    "label": "Teacher",
+    "hindi": "शिक्षक",
+    "malayalam": "അധ്യാപകൻ",
+    "category": "People",
+    "recorded": false
+  },
+  {
+    "label": "Home",
+    "hindi": "घर",
+    "malayalam": "വീട്",
+    "category": "Places",
+    "recorded": false
+  },
+  {
+    "label": "School",
+    "hindi": "स्कूल",
+    "malayalam": "സ്കൂൾ",
+    "category": "Places",
+    "recorded": false
+  },
+  {
+    "label": "Bus",
+    "hindi": "बस",
+    "malayalam": "ബസ്",
+    "category": "Places",
+    "recorded": false
+  },
+  {
+    "label": "Happy",
+    "hindi": "खुश",
+    "malayalam": "സന്തോഷം",
+    "category": "Feelings",
+    "recorded": false
+  },
+  {
+    "label": "Sad",
+    "hindi": "उदास",
+    "malayalam": "സങ്കടം",
+    "category": "Feelings",
+    "recorded": false
+  },
+  {
+    "label": "Tired",
+    "hindi": "थका हुआ",
+    "malayalam": "ക്ഷീണം",
+    "category": "Feelings",
+    "recorded": false
+  },
+  {
+    "label": "Bad",
+    "hindi": "बुरा",
+    "malayalam": "മോശം",
+    "category": "Feelings",
+    "recorded": false
+  },
+  {
+    "label": "Come",
+    "hindi": "आओ",
+    "malayalam": "വരൂ",
+    "category": "Actions",
+    "recorded": false
+  },
+  {
+    "label": "Go",
+    "hindi": "जाओ",
+    "malayalam": "പോകൂ",
+    "category": "Actions",
+    "recorded": false
+  },
+  {
+    "label": "Wait",
+    "hindi": "ठहरो",
+    "malayalam": "കാത്തിരിക്കൂ",
+    "category": "Actions",
+    "recorded": false
+  },
+  {
+    "label": "Understand",
+    "hindi": "समझ",
+    "malayalam": "മനസ്സിലായി",
+    "category": "Actions",
+    "recorded": false
+  },
+  {
+    "label": "Again",
+    "hindi": "फिर से",
+    "malayalam": "വീണ്ടും",
+    "category": "Actions",
+    "recorded": false
+  },
+  {
+    "label": "What",
+    "hindi": "क्या",
+    "malayalam": "എന്ത്",
+    "category": "Questions",
+    "recorded": false
+  },
+  {
+    "label": "Where",
+    "hindi": "कहाँ",
+    "malayalam": "എവിടെ",
+    "category": "Questions",
+    "recorded": false
+  },
+  {
+    "label": "Who",
+    "hindi": "कौन",
+    "malayalam": "ആര്",
+    "category": "Questions",
+    "recorded": false
+  }
+]
